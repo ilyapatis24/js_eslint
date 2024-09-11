@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ilyapatis24/js_babel"
+    "url": "https://github.com/ilyapatis24/js_eslint"
   },
   "keywords": [
     "game"
@@ -18,13 +18,14 @@
   "author": "ilyapatis24",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ilyapatis24/js_babel/issues"
+    "url": "https://github.com/ilyapatis24/s_eslint/issues"
   },
-  "homepage": "https://github.com/ilyapatis24/js_babel#readme",
+  "homepage": "https://github.com/ilyapatis24/s_eslint#readme",
   "devDependencies": {
     "@babel/cli": "^7.25.6",
     "@babel/core": "^7.25.2",
-    "@babel/preset-env": "^7.25.4"
+    "@babel/preset-env": "^7.25.4",
+    "eslint": "^8.57.0"
   },
   "dependencies": {
     "core-js": "^3.38.1"
